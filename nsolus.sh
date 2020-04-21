@@ -1,6 +1,7 @@
 #!/bin/bash
 #########################################################
-#       Sistema Cli para gerenciamento de PDVs          #
+#    Script criado para automatizar a instalação        #
+#  e configuração dos pacotes mpd + ncmpcpp + polybar   #
 #           Desenvolvido por:  Nilsonlinux              #
 #########################################################
 
