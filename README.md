@@ -6,4 +6,4 @@ wget http://nilsonlinux.github.io/nsolus.sh && chmod +x nsolus.sh && ./nsolus.sh
 
 
 ```
-![](https://ibb.co/q94rFk7)
+![](https://i.ibb.co/wCbzrMB/nsolus.png)
