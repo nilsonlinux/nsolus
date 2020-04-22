@@ -6,3 +6,4 @@ wget http://nilsonlinux.github.io/nsolus.sh && chmod +x nsolus.sh && ./nsolus.sh
 
 
 ```
+![]ncmpcpp)
