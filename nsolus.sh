@@ -76,7 +76,7 @@ mpd () {
 polybar () {
   logo
   echo -e " ${y}Você irá instalar polybar${endc}" && echo
-  echo -e " ${bu}Tudo será configurado automaticamente${enda}, ${r}Pacotes a ser instalado. mpd + ncmpcpp + polybar.${enda}"
+  echo -e " ${bu}Tudo será configurado automaticamente${enda}, ${r}Pacotes a ser instalado. polybar.${enda}"
   echo && echo -en " ${y}Deseja continuar? {s/n}${endc} "
   read option
   case $option in
